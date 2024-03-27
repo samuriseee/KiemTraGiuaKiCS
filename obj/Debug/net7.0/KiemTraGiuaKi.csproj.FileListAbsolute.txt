@@ -1,0 +1,14 @@
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\bin\Debug\net7.0\KiemTraGiuaKi.exe
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\bin\Debug\net7.0\KiemTraGiuaKi.deps.json
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\bin\Debug\net7.0\KiemTraGiuaKi.runtimeconfig.json
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\bin\Debug\net7.0\KiemTraGiuaKi.dll
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\bin\Debug\net7.0\KiemTraGiuaKi.pdb
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\obj\Debug\net7.0\KiemTraGiuaKi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\obj\Debug\net7.0\KiemTraGiuaKi.AssemblyInfoInputs.cache
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\obj\Debug\net7.0\KiemTraGiuaKi.AssemblyInfo.cs
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\obj\Debug\net7.0\KiemTraGiuaKi.csproj.CoreCompileInputs.cache
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\obj\Debug\net7.0\KiemTraGiuaKi.dll
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\obj\Debug\net7.0\refint\KiemTraGiuaKi.dll
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\obj\Debug\net7.0\KiemTraGiuaKi.pdb
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\obj\Debug\net7.0\KiemTraGiuaKi.genruntimeconfig.cache
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\KiemTraGiuaKi\obj\Debug\net7.0\ref\KiemTraGiuaKi.dll
